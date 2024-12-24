@@ -1,4 +1,4 @@
-package subString;
+package javaPractice;
 
 import java.util.Scanner;
 
@@ -12,7 +12,7 @@ public class SubstringComparision {
 	      
 	        System.out.println(getSmallestAndLargest(s, k));
 
-	      
+	        
 	}
 
 	public static String getSmallestAndLargest(String s, int k) {
